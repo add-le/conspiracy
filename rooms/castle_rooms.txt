@@ -1,0 +1,25 @@
+cuisine +
+dortoir personnel +
+salle de bain royale
+toilettes planquées
+salle a manger pour invités+
+salle a manger personnel
+salle d'étude
+fontaine personnel
+garde manger +
+salle de musique ?
+petite chappelle royale +
+chambre de chaque membre de la famille royale
+chambre d'amis
+armurie +
+bibliothèque +
+grenier a grain
+grenier bibliothèque
+vieille salle de bal ?
+cave
+entrée cachot
+caveaux(donne sur le cimetière ? puis sur l'église ?)
+
+fontaine dans la cour
+jardins
+cabane du garde porte
